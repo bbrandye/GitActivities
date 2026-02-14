@@ -6,5 +6,5 @@ This repository holds a number of activities to aid in your learning of GIT.
 
 Walk through the assignments to gain a solid understanding of working with GIT.
 
-MERGE CONFLICT DEMO: version B
+MERGE CONFLICT DEMO: resolved (A + B)
 
